@@ -26,9 +26,4 @@ A real-time hand gesture recognition system using MediaPipe and OpenCV. This pro
 - MediaPipe (`pip install mediapipe`)
 - NumPy (`pip install numpy`)
 
-## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/hand-gesture-recognition.git
-   cd hand-gesture-recognition
